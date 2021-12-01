@@ -1,4 +1,4 @@
-# Phaser + ES6 + Webpack.
+# JavaScript breakout game
 #### JavaScript breakout game with Phaser + ES6 + Webpack.
 
 ## Demo
